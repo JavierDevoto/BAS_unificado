@@ -1,31 +1,31 @@
 
 J
-java:S1602",Remove useless curly braces around statement(øê‰â8¹°šÉË.
-F
-java:S2114Ç"(Remove or correct this "removeAll" call.(àîÀ­8Ï¢¸ÈË.
-K
-java:S1604"(Make this anonymous inner class a lambda(ùë²¥şÿÿÿÿ8¤üÇË.
-J
-java:S1602ù",Remove useless curly braces around statement(Öò„‹8ó›–ÉË.
-R
-java:S2209~"5Change this instance-reference to a static reference.(ôÈæõ8ÄÒ´ÇË.
+java:S1602¯",Remove useless curly braces around statement(ÌñØş8ùÜ¢÷Ê.
 J
 java:S1602ï",Remove useless curly braces around statement(É£’8´ÜÕÇË.
+M
+java:S3740À"/Provide the parametrized type for this generic.(¾È²Ú8°ø«ŞË.
+K
+java:S1604"(Make this anonymous inner class a lambda(ùë²¥şÿÿÿÿ8°ø«ŞË.
+R
+java:S2209~"5Change this instance-reference to a static reference.(ôÈæõ8°ø«ŞË.
 J
-java:S1602¯",Remove useless curly braces around statement(ÌñØş8ùÜ¢÷Ê.
+java:S1602ù",Remove useless curly braces around statement(Öò„‹8ó›–ÉË.
 c
 java:S1192N"FDefine a constant instead of duplicating this literal "Arial" 4 times.(ñ•»Ù8„ØğÈË.
 M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÖÃ›ÆË.
+java:S3740À"/Provide the parametrized type for this generic.(¾È²Ú8°ø«ŞË.
+J
+java:S1602",Remove useless curly braces around statement(øê‰â8¹°šÉË.
 F
-java:S2114Ğ"(Remove or correct this "removeAll" call.(àîÀ­8­×ÄÁË.
-u
-java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(š©ó¯ıÿÿÿÿ8èÀÔÈË.
-R
-java:S3655¡"5Call "status.isPresent()" before accessing the value.(‡Ëõl8Î±ÇË.
+java:S2114Ç"(Remove or correct this "removeAll" call.(àîÀ­8°ø«ŞË.
 J
 java:S1602Š",Remove useless curly braces around statement(ã¢»°8ºÙ¾ÈË.
 M
-java:S3740À"/Provide the parametrized type for this generic.(¾È²Ú8¿ªèöÊ.
-M
-java:S3740À"/Provide the parametrized type for this generic.(¾È²Ú8¿ªèöÊ.
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÖÃ›ÆË.
+u
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(š©ó¯ıÿÿÿÿ8èÀÔÈË.
+F
+java:S2114Ğ"(Remove or correct this "removeAll" call.(àîÀ­8°ø«ŞË.
+R
+java:S3655¡"5Call "status.isPresent()" before accessing the value.(‡Ëõl8°ø«ŞË.

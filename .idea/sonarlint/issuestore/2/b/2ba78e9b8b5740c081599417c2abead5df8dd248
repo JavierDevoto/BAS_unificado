@@ -1,13 +1,13 @@
 
 Q
-java:S3740M"/Provide the parametrized type for this generic.(óÈ»œþÿÿÿÿ8¬ªÌ¨É.
-o
-java:S2095""MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¶ÈÖëþÿÿÿÿ8÷¥ôÉ.
-Q
 java:S37409"/Provide the parametrized type for this generic.(óÈ»œþÿÿÿÿ8À§’¨É.
-Q
-java:S3740>"/Provide the parametrized type for this generic.(Áµ¬óüÿÿÿÿ8À§’¨É.
 c
 java:S1192%"FDefine a constant instead of duplicating this literal "Error" 3 times.(í”Œ»8¸Ã¼ËË.
 …
 java:S1157B"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ºÅÛŽûÿÿÿÿ8ÚÞöÊ.
+o
+java:S2095""MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¶ÈÖëþÿÿÿÿ8÷¥ôÉ.
+Q
+java:S3740M"/Provide the parametrized type for this generic.(óÈ»œþÿÿÿÿ8¬ªÌ¨É.
+Q
+java:S3740>"/Provide the parametrized type for this generic.(Áµ¬óüÿÿÿÿ8À§’¨É.

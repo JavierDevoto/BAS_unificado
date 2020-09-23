@@ -29,12 +29,6 @@
       <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml:4.1.2" />
       <element id="library" level="project" name="Maven: org.apache.poi:poi:4.1.2" />
       <element id="library" level="project" name="Maven: org.apache.xmlbeans:xmlbeans:3.1.0" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:15" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:15" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:15" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:15" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:15" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:15" />
       <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.12" />
     </root>
   </artifact>

@@ -278,7 +278,7 @@ public class Components {
         } else {
             stage.setTitle("Editar alumno");
         }
-        stage.setScene(new Scene(stackPane, 350, 500));
+        stage.setScene(new Scene(stackPane, 350, 430));
         stage.initModality(Modality.WINDOW_MODAL);
         stage.initOwner(parentStage);
         stage.setResizable(false);
