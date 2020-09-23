@@ -1,5 +1,6 @@
 package com.bas.repository;
 
+import com.bas.component.Components;
 import com.bas.model.Student;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -34,8 +35,8 @@ public class StudentRepository {
         try {
             students = objectMapper.readValue(new File(System.getProperty("user.dir") + "/students.json"), new TypeReference<List<Student>>(){});
         } catch (Exception e) {
+            Components.getInformationDialog("Atención", "No se encontró una base de datos.\n ").showAndWait();
             students = new ArrayList<>();
-            System.out.println(e.getMessage());
         }
     }
 
@@ -44,7 +45,7 @@ public class StudentRepository {
         try {
             objectMapper.writeValue(new File(System.getProperty("user.dir") + "/students.json"), students);
         } catch (Exception e) {
-            System.out.println(e.getMessage());
+            Components.getErrorDialog("Error", "No fué posible guardar los cambios en la base de datos.\n ").showAndWait();
         }
     }
 
