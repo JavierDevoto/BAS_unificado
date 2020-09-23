@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="BAS_unificado.jnlp">
+    <information>
+        <title>BAS_unificado</title>
+        <vendor>Unknown</vendor>
+        <description>BAS_unificado</description>
+        <offline-allowed/>
+    </information>
+    <update check="background"/>
+    <resources>
+        <j2se version="10.0.2+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="BAS_unificado.jar" size="24879" download="eager"/>
+        <jar href="SparseBitSet-1.2.jar" size="24510" download="eager"/>
+        <jar href="commons-codec-1.13.jar" size="344339" download="eager"/>
+        <jar href="commons-collections4-4.4.jar" size="751914" download="eager"/>
+        <jar href="commons-compress-1.19.jar" size="615064" download="eager"/>
+        <jar href="commons-math3-3.6.1.jar" size="2213560" download="eager"/>
+        <jar href="curvesapi-1.06.jar" size="111875" download="eager"/>
+        <jar href="jackson-annotations-2.9.0.jar" size="66519" download="eager"/>
+        <jar href="jackson-core-2.9.8.jar" size="325619" download="eager"/>
+        <jar href="jackson-databind-2.9.8.jar" size="1347236" download="eager"/>
+        <jar href="javafx-base-15-win.jar" size="745515" download="eager"/>
+        <jar href="javafx-base-15.jar" size="302" download="eager"/>
+        <jar href="javafx-controls-15-win.jar" size="2531028" download="eager"/>
+        <jar href="javafx-controls-15.jar" size="306" download="eager"/>
+        <jar href="javafx-graphics-15-win.jar" size="5898566" download="eager"/>
+        <jar href="javafx-graphics-15.jar" size="306" download="eager"/>
+        <jar href="lombok-1.18.12.jar" size="1794582" download="eager"/>
+        <jar href="poi-4.1.2.jar" size="2915337" download="eager"/>
+        <jar href="poi-ooxml-4.1.2.jar" size="1888231" download="eager"/>
+        <jar href="poi-ooxml-schemas-4.1.2.jar" size="7912488" download="eager"/>
+        <jar href="xmlbeans-3.1.0.jar" size="2579738" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="600" height="400" main-class="com.bas.application.Main" name="BAS_unificado"/>
+</jnlp>
+
